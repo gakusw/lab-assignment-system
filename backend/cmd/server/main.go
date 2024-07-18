@@ -17,7 +17,7 @@ import (
 	"github.com/gin-contrib/cors"
 )
 
-const ProjectId = "lab-assignment-system-429516"
+const ProjectId = "lab-assignment-system-429812"
 
 var (
 	frontendUrl = os.Getenv("FRONTEND_URL")

@@ -12,7 +12,7 @@ import (
 	"cloud.google.com/go/storage"
 )
 
-const ProjectId = "lab-assignment-system-429516"
+const ProjectId = "lab-assignment-system-429812"
 
 func main() {
 	ctx := context.Background()
